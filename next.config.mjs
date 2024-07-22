@@ -1,8 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  images : { 
-    domains : ['@/assets/images/'] 
-  } 
-};
+const nextConfig = {};
 
 export default nextConfig;
